@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title>website</title>
+	<link rel="stylesheet" type="text/css" href="style.css">
+	<link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css">
+	<link rel="icon" type="image/x-icon" href="icon/download.png"/>
+</head>
+<body>
+
+	<!-- header -->
+	<div class="medsos">
+		<div class="container">
+			<ul>
+				<li><a href="https://youtube.com/c/SMKN2KOTAJAMBI"><i class="fab fa-youtube"></i></a></li>
+				<li><a href="https://instagram.com/smeandajbi?utm_medium=copy_link"><i class="fab fa-instagram"></i></a></li>
+				<li>Jln.Gelatik Kel.Pasir Putih Kode Pos:36139 Kota Jambi</li>
+			</ul>
+		</div>
+	</div>
+	<header>
+		<div class="container"></div>
+				<h1><a href="website.html">SMK NEGERI 2 KOTA JAMBI</a></h1>
+				<ul>
+					<li class="active"><a href="sejarah.html">Profil</a></li>
+					<li><a href="kejuruan.html">Kompetensi Keahlian</a></li>
+					<li><a href="informasi.html">Ekstrakulikuler</a></li>
+				</ul>
+		</div>
+	</header>
+
+	<!-- ekskul -->
+				<section class="judul">
+					<div class="container">
+						<h1><font color="black">EKSTRAKULIKULER</font></h1>
+					</div>
+					
+				</section>
+
+	   		<section class="pmr">
+	   			<div class="container">
+	   				<h4><font color="black">Palang Merah Remaja(PMR)</font></h4>
+	   				<div class="image"><img src="pmr.png" alt="pmr.png"></div>
+	   				<p>Palang Merah Remaja (PMR) adalah suatu bagian dari Palang Merah Indonesia yang anggota – anggota didikan ditempa menjadi insan yang berguna bagi semua umat manusia, membantu melaksanakan tugas kepalang merahan, meningkatkan keterampilan dan diharapkan kelak menjadi insan yang berguna bagi semua umat manusia dan dapat menjadi anggota Palang Merah yang baik.Sistem pendidikan Palang Merah Remaja tidak terbatas bagi para anggotanya, akan tetapi diikuti oleh organisasi – organisasi lainnya, karena sifat kenetralanya didalam segala usahanya itu menjadi jaminan untuk tidak melakukan persaingan dengan organisasi – organisasi lain di luar Palang Merah Remaja. Menjadi kewajiban Palang Merah Remaja untuk senantiasa bekerja sama semua golongan menghadapi tugas – tugas kemanusiaan.Walaupun keanggotaan Palang Merah Remaja terbuka bagi setiap remaja, namun sejak semula dan menurut sejarahnya, justru Palang Merah Remaja di Indonesia dimulai dan diadakan dilingkungan sekolah – sekolah. Disamping itu sekolah merupakan sumber daya yang tidak akan putus.Para guru sebagai tenaga ahli di bidang pendidikan sudah sewajarnya mendapat kedudukan terhormat sebagai pembina Palang Merah Remaja yang akan membimbing mereka kelak menjadi insan yang berguna dan memberikan kesibukan dengan kegiatan – kegiatan yang positif di waktu – waktu yang telah di tetapkan diluar jadwal kegiatan belajar mengajar dengan kegiatan – kegiatan yang bermanfaat sekaligus dapat mengurangi meningkatnya kenakalan remaja.Palang Merah Remaja Unit SMK Negeri 2 Kota Jambi, merupakan bagian dari Palang Merah Remaja (PMR) di kota Jambi dan merupakan kegiatan ekstrakulikuler yang berada dilingkungan SMK Negeri 2 Kota Jambi yang bertujuan untuk mendidik siswa dengan kegiatan kepalang merahan.</p>
+	   			</div>
+	   			
+	   		</section>
+
+
+	   		<section class="pramuka">
+	   			<div class="container">
+	   				<h4>Pramuka</h4>
+	   				<div class="image"><img src="pr.jpg" alt="pr.jpg"></div>
+	   				<p>Pramuka sebagai kegiatan ekstrakulikuler di sekolah tentunya tidak asing lagi bagi hampir semua orang. Belakangan ini pramuka mungkin kurang diminati sebagian siswa karena dianggap ketinggalan jaman, namun bila diikuti akan terasa begitu banyak manfaatnya.</p>
+	   				<p>Sebagian orang masih beranggapan bahwa pramuka itu hanya tepuk tangan, baris berbaris, tali temali. Padahal pramuka itu bersifat fleksibel dalam arti dapat berkembang mengikuti jaman.</p>
+	   				<p>Beberapa manfaat yang dapat dirasakan oleh siswa yang sudah mengikuti pramuka antara lain:</p>
+	   				<p>- Kemandirian</p>
+	   				<p>Misalkan suatu saat kita mengalami kecelakaan di tempat terpencil jauh dari pemukiman, pramuka mengajarkan P3K, tali temali, dsb.</p>
+	   				<p>- Mendapat keluarga baru</p>
+	   				<p> Tidak hanya di sekolah, di kota, di Indonesia, bahkan di duniapun berkat “pramuka” , orang sedunia bisa bertemu seperti Jambore Dunia.</p>
+	   				<p>- Lebih mencintai Lingkungan</p>
+	   				<p>Bagaimana pramuka mengajarkan tentang lingkungan alam besreta pelestariannya, mengenal flora dan fauna. Lewat penjelejahan alam bebas pramuka diajarkan untuk lebih akrab dengan alam.</p>
+
+	   			</div>
+	   		</section>
+
+	   		<section class="pask">
+	   			<div class="container"> 
+	   				<h4>Paskibra</h4>
+	   				<div class="image"><img src="093.jpg" alt="093.jpg"></div>
+	   				<p>Paskibra adalah pasukan pengibar bendera. Kegiatan ekstrakurikuler ini bertujuan untuk memperdalam dan memperluas pengetahuan para siswa, dalam arti memperkaya pelajaran serta memperbaiki pengetahuan para siswa yang berkaitan dengan program kurikulum yang ada, dan untuk melengkapi upaya pendidikan, pemantapan dan pembentukan nilai-nilai kepribadian para siswa. Hal ini dapat diusahakan melalui kegiatan baris berbaris, penguasaan teknis upacara bendera, kegiatan yang berkaitan dengan peningkatan ketakwaan terhadap tuhan yang maha esa serta latihan kepemimpinan dan bela negara. Selain itu juga kegiatan ini berorientasi pada mata pelajaran yang diprogramkan, dan usaha pembentukan kepribadian siswa, memperbanyak kagiatan ekstrakurikuler yang diarahkan untuk membina serta meningkatkan bakat. Minat dan keterampilan. Hasil yang diharapakan kegiatan ini tak lain ialah untuk memacu anak kearah yang sifatnya positif khususnya bagi siswa SMK Negeri 2 Kota Jambi.</p>
+	   			</div>
+	   			
+	   		</section>
+
+	   		<section class="selesai">
+	   			<div class="container">
+	   				<footer>
+	   					<small>Copy Right &copy;2022. By Donny Agus Saputra Manullang</small>
+	   				</footer>
+	   			</div>
+	   		</section>
+</head>
+<body>
+
+</body>
+</html>
