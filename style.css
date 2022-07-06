@@ -1,0 +1,229 @@
+*{
+	padding: 0;
+	margin: 0;
+	font-family: sans-serif;
+}
+a{
+	color: inherit;
+	text-decoration: none;
+}
+
+.medsos{
+	padding: 10px 0;
+	background-color: #220471;
+}
+.medsos ul li{
+	display: inline-block;
+	color: #fff;
+	margin-right: 19px;
+	margin-top: 2px;
+	margin-left: 15px;
+
+}
+.marquee h1{
+   float: right;
+   position: left;
+}
+header h1{
+	float: right;
+	padding: 30px 0;
+	color: #333;
+}
+header ul {
+	
+	float: right;
+}
+header ul li{
+	display: inline-block;
+}
+header ul li a {
+	padding: 25px 20px;
+	display: inline-block;
+}
+header ul li a:hover{
+	background-color: #220471;
+	color: #fff;
+}
+.active {
+	background-color: #220471;
+	color: #fff;
+}
+.gambar{
+	height: 60vh;
+	background-image: url('a2.jpg');
+	background-size: cover;
+}
+.tentang{
+	background-color: #220471;
+	color: #fff;
+	word-spacing: 2px;
+	line-height: 25px;
+}
+.tentang h3{
+	font-size: 30px;
+}
+.tentang p{
+	margin: 25px;
+	text-align: justify;
+	font-size: 15px;
+}
+.tentang img{
+	width: 150px;
+	height: 150px;
+}
+section{
+	padding: 50px 0;
+}
+section h4{
+	text-align: center;
+	padding: 20px 0;
+	color: #333;
+	margin-bottom: 20px;
+}
+.VisiMisi{
+	background-color: #220471;
+	color: #fff;
+	word-spacing: 2px;
+	line-height: 25px;
+}
+.VisiMisi p{
+	margin: 25px;
+	text-align: justify;
+	font-size: 15px;
+}
+.VisiMisi h3{
+	text-align: center;
+	padding: 20px 0;
+	color: #fff;
+	margin-bottom: 20px;
+}
+section h5{
+	text-align: center;
+	padding: 20px 0;
+	color: #333;
+	margin-bottom: 20px;
+}
+.galeri {
+	color:#333; 
+	word-spacing: 2px;
+	line-height: 25px;
+}
+.galeri img{
+	width: 200px;
+	height: 200px
+}
+section{
+	padding: 50px 0;
+}
+section h6{
+	text-align: center;
+	padding: 20px 0;
+	color: #333;
+	margin-bottom: 20px;
+}
+.multimedia{
+  clear: both;
+  background-image: url('batubata.jpg'); 
+  padding: 10px 0;
+}
+.multimedia p{
+	color: #fff;
+}
+.multimedia h5{
+	text-align: left;
+}
+.multimedia h4{
+	font-size: 30px;
+}
+.akl{
+	  clear: both;
+	  padding: 10px 0;
+	  background-image: url('aa.jpg');
+	  text-align: center;
+}
+.akl p{
+	text-align: left;
+	color: #fff;
+}
+.akl h5{
+	text-align: left;
+}
+.rpl {
+	 clear: both;
+	 padding: 10px 0;
+	 background-image: url(rpl.jpg);
+	 text-align: center;
+}
+.rpl p{
+	text-align: left;
+	color: #fff;
+}
+.rpl h5{
+	text-align: left;
+}
+.upw{
+	clear: both;
+	padding: 10px 0;
+	background-image: url('amo.jpg');
+	text-align: center;
+}
+.upw p{
+	text-align: left;
+	color: #000;
+}
+.upw h5{
+	text-align: left;
+}
+.pmr{
+	 clear: both;
+	  padding: 10px 0;
+	  text-align: center;
+	  color: #000;
+}
+.judul {
+	clear: both;
+	  padding: 10px 0;
+	   text-align: left;
+	  color: #000;
+	  background-color: #E9967A;
+}
+.pmr h4{
+	text-align: center;
+}
+.pmr h1{
+	text-align: left;
+}
+.pmr p{
+	font-size: 16px;
+	text-align: left;
+}
+.pramuka{
+	text-align: center;
+	color: #000;
+}
+.pramuka h4{
+	color: #000;
+}
+.pramuka p{
+	text-align: left;
+	font-size: 16px;
+}
+.pask {
+	text-align: center;
+	color: #000;
+}
+.pask p{
+	text-align: left;
+	font-size: 16px;
+}
+.selesai small{
+	text-align: center;
+	color: #000;
+	padding: 10px 0;
+}
+footer{
+	padding: 10px 0;
+	background-color: #AB10AB;
+	color: #fff;
+	text-align: center;
+}
