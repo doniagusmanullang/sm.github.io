@@ -1,0 +1,139 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title>website</title>
+	<link rel="stylesheet" type="text/css" href="style.css">
+	<link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css">
+	<link rel="icon" type="image/x-icon" href="icon/download.png"/>
+</head>
+<body>
+
+	<!-- header -->
+	<div class="medsos">
+		<div class="container">
+			<ul>
+				<li><a href="https://youtube.com/c/SMKN2KOTAJAMBI"><i class="fab fa-youtube"></i></a></li>
+				<li><a href="https://instagram.com/smeandajbi?utm_medium=copy_link"><i class="fab fa-instagram"></i></a></li>
+				<li>Jln.Gelatik Kel.Pasir Putih Kode Pos:36139 Kota Jambi</li>
+			</ul>
+		</div>
+	</div>
+	<header>
+		<div class="container"></div>
+				<h1><a href="website.html">SMK NEGERI 2 KOTA JAMBI</a></h1>
+				<ul>
+					<li class="active"><a href="sejarah.html">Profil</a></li>
+					<li><a href="kejuruan.html">Kompetensi Keahlian</a></li>
+					<li><a href="informasi.html">Ekstrakulikuler</a></li>
+				</ul>
+		</div>
+	</header>
+
+<!-- kejuruan -->
+<section class="multimedia">
+	<div class="container">
+    <h1><font color="white">Kompetensi Keahlian</font></h1>
+		<h4><font color="white">MultiMedia</font></h4>
+		<h5><font color="white">VISI KOMPETENSI KEAHLIAN:</font></h5>
+        <p>Mewujudkan Sumber Daya Manusia yang profesional dan kompeten di bidang Multimedia</p>
+		<h5><font color="white">MISI KOMPETENSI KEAHLIAN:</font></h5>
+		<p>1.Menyiapkan tenaga yang terampil di bidang multimedia</p>
+        <p>2.Membentuk tamatan yang berkepribadian unggul dan mampu mengembangkan diri</p>
+        <p>3.Menyiapkan wirausaha yang handal di bidang multimedia</p>
+        <h5><font color="white">TUJUAN KOMPETENSI KEAHLIAN MULTIMEDIA:</font></h5>
+        <p>Program Keahlian Multimedia pada SMK Negeri 2 Kota Jambi bertujuan untuk :</p>
+        <p>1.Meningkatkan keimanan dan ketaqwaan peserta didik
+        <p>2.Mendidik peserta didik agar menjadi warga negara yang bertanggung jawab
+        <p>3.Mendidik peserta didik agar dapat menerapkan hidup sehat, memiliki wawasan pengetahuan dan seni
+        <p>4.Mendidik peserta didik dengan keahlian dan ketrampilan dalam progran keahlian Multimedia, agar dapat bekerja baik secara mandiri atau mengisi pekerjaan yang ada di DUDI sebagai tenaga kerja tingkat menengah.
+        <p>5.Mendidik Peserta didik agar mampu memilih karir, berkompetisi dan mengembangkan sikap professional dalam program keahlian Multimedia.
+        <p>6.Membekali peserta didik dengan ilmu pengetahuan dan keterampilan sebagai bekal bagi yang berminat untuk melanjutkan pendidikan yang lebih tinggi.</p>
+        <h5><font color="white">KERJA SAMA DUNIA USAHA DAN INDUSTRI</font></h5>
+        <p>1.Harian PAGI JAMBI EKSPRES</p>
+        <p>2.JAMBI EKSPRES TELEVISI</p>
+        <p>3.JAMBI TV</p>
+
+    	
+    </div>
+</section>
+
+           
+
+        <section class="akl">
+        	<div class="container">
+        		<h2><font color="white">Akuntansi Dan Keuangan Lembaga</font></h2>
+        		<h5><font color="white">VISI KOMPETENSI KEAHLIAN:</font></h5>
+        		<p>Menjadikan Kompetensi Keahlian keuangan sebagai kompetensi keahlian yang terpercaya, mengutamakan  profesionalisme, kualitas dan unggul serta berakhlaqul karimah.</p>
+        		<h5><font color="white">MISI KOMPETENSI KEAHLIAN:</font></h5>
+        		<p>1.Menyelenggarakan pendidikan dan pengajaran, pelatihan serta pengabdian secara profesional untuk menghasilkan sumber daya manusia yang berkualitas dan bermoral.</p>
+        		<p>2.Menyiapkan peserta didik agar mampu memasuki dunia kerja serta mengembangkan sikap profesionalisme.</p>
+        		<p>3.Menyiapkan Tamatan agar menjadi warga negara yang produktif, adaptif dan kreatif.</p>
+        		<h5><font color="white">LINGKUP PEKERJAAN</font></h5>
+        		<h5><font color="white">Bidang pekerjaan yang dapat diisi oleh tamatan Program Keahlian Akuntansi antara lain :</font></h5>
+        		<p>1.Penata Buku Muda dalam lingkup akuntansi</p>
+        		<p>2.Kasir Teler</p>
+        		<p>3.Juru Penggajian</p>
+        		<p>4.Operator Mesin Hitung</p>
+        		<p>5.Administrasi Gudang</p>
+        		<p>6.Menyusun Laporan Keuangan</p>
+
+        	</div>
+        	
+        </section>
+
+    			
+
+    			<section class="rpl">
+    				<div class="container">
+    					<h2><font color="white">Rekayasa Perangkat Lunak</font></h2>
+    					<h5><font color="white">VISI KOMPETENSI KEAHLIAN:</font></h5>
+    					<p>Menjadikan Program Keahlian Rekayasa Perangkat Lunak Sebagai Pusat Program Keahlian Yang Memiliki Keunggulan Ilmu Dan Teknologi Dalam Bidang Informasi Dan Komunikasi.</p>
+    					<h5><font color="white">MISI KOMPETENSI KEAHLIAN:</font></h5>
+    					<p>1.Mengembangkan Sumber Daya Manusia yang mempunyai keunggulan dalam bidang teknologi informasi dan komunikasi yang dilandasi keimanan dan ketakwaan.</p>
+    					<p>2.Menyiapkan tenaga kerja tingkat menengah untuk mengisi kebutuhan dunia usaha dan dunia industri dalam bidang teknologi informasi dan komunikasi.</p>
+    					<p>3.Menyiapkan peserta didik untuk memasuki dunia kerja, serta mengembangkan sikap professional.</p>
+    					<p>4.Menyiapkan peserta didik untuk melanjutkan ke jenjang pendidikan yang lebih tinggi.</p>
+    					<p>5.Menyiapkan tamatan agar menjadi warga negara yang produktif, kreatif, dan inovatif.</p>
+    					<p>6.Menyiapkan tamatan untuk menerapkan dan menyebarluaskan teknologi dibidang rekayasa perangkat lunak yang berbasis pada kebutuhan masyarakat, dunia usada dan industry.</p>
+    					
+    				</div>
+    				
+    			</section>
+
+
+
+    			<section class="upw">
+    				<div class="container">
+    					<h2><font color="black">Usaha Perjalanan Wisata</font></h2>
+    					<h5><font color="black">VISI KOMPETENSI KEAHLIAN</font></h5>
+    					<p>Menghasilkan lulusan yang terampil,  cerdas, kompetitif dan mandiri  serta menjunjung tinggi kedisiplinan, berbudi pekerti luhur dan bertakwa terhadap Tuhan Yang Maha Esa.</p>
+    					<h5><font color="black">MISI KOMPETENSI KEAHLIAN</font></h5>
+    					<p>1.Mendidik tenaga kerja tingkat menengah untuk mengisi kebutuhan dunia usaha atau industri pada saat ini maupun  masa yang akan datang</p>
+    					<p>2.Mendidik siswa untuk mampu berkarir, mampu berkompetisi dan mampu mengembangkan diri dalam lingkup keahlian Usaha perjalanan wisata</p>
+    					<p>3.Mendidik siswa menjadi warga Negara yang produktif, adaptif dan kreatif.</p>
+    					<h5><font color="black">DASAR KOMPETENSI KEAHLIAN</font></h5>
+    					<p>1.Kerjasama dengan kolega</p>
+    					<p>2.Kerjasama dalam lingkungan sosial</p>
+    					<p>3.Mengikuti Prosedur  KKKK</p>
+    					<p>4.Menangani konflik</p>
+    					<p>5.Mengembangkan  industri Pariwisata</p>
+    					
+    				</div>
+    				
+    			</section>
+
+
+    		<section class="footer">
+    			<div class="container">
+    				<footer>
+    					<small>Copy Right &copy;2022. By Donny Agus Saputra Manullang</small>
+    				</footer>
+    			</div>
+    		</section>
+</head>
+<body>
+
+</body>
+</html>
